@@ -1,5 +1,5 @@
 /*
- * PS19 Solution AU
+ * NSUPS19 Solution AU: Fraction
  */
 package com.mycompany.psau;
 import java.util.*;
