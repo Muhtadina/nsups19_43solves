@@ -2,7 +2,7 @@
 using namespace std;
 int main() // Dou zo woro shiku
 {
-  cout << "Welcome to my skribble!" << endl; // Ohaio
+  cout << "Welcome to my skribble for NSUPS Season 19!" << endl; // Ohaio
   bool view = true; // Ara Ara
   int coder;
   cout << "Type 1 if you're a coder/ 0 if you're not a coder:";
@@ -18,5 +18,6 @@ int main() // Dou zo woro shiku
 
     view = false; //Seems like you ended up reading the most useless code. 
   }
+  cout << "Let's start with the master branch. This is the main branch which is nothing but the overview written in the README file." << endl;
   return 0; // Sayonara
 }
