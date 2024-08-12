@@ -1,5 +1,5 @@
 /*
- * PS19 Solution O
+ * NSUPS19 Solution O: Soft-Drinking 
  */
 
 package com.mycompany.pso;
