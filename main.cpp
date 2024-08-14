@@ -3,13 +3,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define PI acos(-1)
-/*double Height(int a, int b, int c)
-{
-    double x = (a*a + b*b - c*c)/(2*b);
-    double H2 = a*a - x*x;
-    double H = sqrt(H2);
-    return H;
-}*/
+
 double Circle(double r)
 {
     return r*r*PI;
