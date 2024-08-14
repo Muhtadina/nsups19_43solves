@@ -4,7 +4,7 @@ North South University Problem Solving Pre-Bootcamp Season-19; Solutions to `44`
 ## Overview
 A.	Solve Me First | `cpp`
 
-B.	Simple Array Sum
+B.	Simple Array Sum | `cpp`
 
 C.	A Very Big Sum
 
@@ -48,7 +48,7 @@ V.	Divide it!
 
 W.	Fair Share Settlement
 
-X.	Professor GukiZ's Robot
+X.	Professor GukiZ's Robot | `java`
 
 Y.	The Department of Redundancy Department
 
@@ -56,9 +56,9 @@ Z.	Andy's First Dictionary
 
 AA.	Slogan Learning of Princess
 
-AB.	Maps-STL
+AB.	Maps-STL | `cpp`
 
-AC.	Sets-STL
+AC.	Sets-STL | `cpp`
 
 AD.	Number reverse
 
@@ -66,7 +66,7 @@ AE.	Small Factorial
 
 AF.	Make N Zero
 
-`AG.`	Self Numbers
+AG.	Self Numbers | `cpp`
 
 AH.	Id and Ship
 
@@ -94,7 +94,7 @@ AS.	Egypt
 
 AT.	Toy Army
 
-AU.	Fraction
+AU.	Fraction | `cpp`
 
 `AV.`	Probability
 
@@ -104,5 +104,4 @@ AU.	Fraction
 
 `AY.`	Points in Figures: Rectangles
 
-AZ.	Colourful Flowers
-
+AZ.	Colourful Flowers | `cpp`
