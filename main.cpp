@@ -1,4 +1,4 @@
-//NSUPS19 Solution AE: Diagonal Difference
+//NSUPS19 Solution AE: Small Factorial
 
 #include <iostream>
 using namespace std;
