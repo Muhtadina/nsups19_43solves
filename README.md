@@ -72,7 +72,7 @@ AH.	Id and Ship | `cpp`
 
 AI.	Valid Triangles | `cpp`
 
-`AJ.`	Funny Encryption Method | `cpp`
+AJ.	Funny Encryption Method | `cpp`
 
 AK.	Holiday Of Equality | `cpp`
 
