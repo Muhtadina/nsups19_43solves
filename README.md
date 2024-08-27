@@ -1,107 +1,107 @@
 # [NSUPS Pre-Bootcamp Contest Season 19](https://vjudge.net/contest/639029#overview)
-North South University Problem Solving Pre-Bootcamp Season-19; Solutions to `44` of the problems I have solved during the time of July-August 2024.
+North South University Problem Solving Pre-Bootcamp Season-19; Solutions to `50` of the problems I have solved during the time of July-August 2024.
 
 ## Overview
 A.	Solve Me First | `cpp`
 
 B.	Simple Array Sum | `cpp`
 
-C.	A Very Big Sum
+C.	A Very Big Sum | `cpp`
 
-D.	Compare the Triplets
+D.	Compare the Triplets | `cpp`
 
-E.	Diagonal Difference
+E.	Diagonal Difference | `cpp`
 
-F.	Plus Minus
+F.	Plus Minus | `cpp`
 
-G.	Staircase
+G.	Staircase | `cpp`
 
-H.	Mini-Max Sum
+H.	Mini-Max Sum | `cpp`
 
-I.	Birthday Cake Candles
+I.	Birthday Cake Candles | `cpp`
 
-J.	Time Conversion
+J.	Time Conversion | `cpp`
 
-`K.`	Number Line Jumps
+K.	Number Line Jumps | `cpp`
 
-L.	IQ test
+L.	IQ test | `java`
 
-M.	Hajj-e-Akbar
+M.	Hajj-e-Akbar | `cpp` 
 
-N.	Exams
+N.	Exams | `cpp`
 
-O.	Soft Drinking
+O.	Soft Drinking |
 
-P.	Relational Operator
+P.	Relational Operator | `cpp`
 
-Q.	Middle of the Contest
+Q.	Middle of the Contest | `cpp` 
 
-R.	10:6:2
+R.	10:6:2 | `cpp`
 
-S.	0 or 1 Swap
+S.	0 or 1 Swap | `cpp`
 
-T.	Nearly Lucky Number
+T.	Nearly Lucky Number | `java`
 
-U.	Harmony
+U.	Harmony | `cpp`
 
-V.	Divide it!
+V.	Divide it! | `java`
 
-W.	Fair Share Settlement
+W.	Fair Share Settlement | `cpp`
 
 X.	Professor GukiZ's Robot | `java`
 
-Y.	The Department of Redundancy Department
+Y.	The Department of Redundancy Department | `cpp`
 
-Z.	Andy's First Dictionary
+Z.	Andy's First Dictionary | `cpp`
 
-AA.	Slogan Learning of Princess
+AA.	Slogan Learning of Princess | `cpp`
 
 AB.	Maps-STL | `cpp`
 
 AC.	Sets-STL | `cpp`
 
-AD.	Number reverse
+AD.	Number reverse | `cpp`
 
-AE.	Small Factorial
+AE.	Small Factorial | `cpp`
 
-AF.	Make N Zero
+AF.	Make N Zero | `cpp`
 
 AG.	Self Numbers | `cpp`
 
-AH.	Id and Ship
+AH.	Id and Ship | `cpp`
 
-AI.	Valid Triangles
+AI.	Valid Triangles | `cpp`
 
-`AJ.`	Funny Encryption Method
+`AJ.`	Funny Encryption Method | `cpp`
 
-AK.	Holiday Of Equality
+AK.	Holiday Of Equality | `cpp`
 
-AL.	Enormous Input Test
+AL.	Enormous Input Test | `cpp`
 
-AM.	Chef And Coloring
+AM.	Chef And Coloring | `cpp`
 
-AN. To Carry or not to Carry
+AN. To Carry or not to Carry | `cpp`
 
-AO.	Petr and Book
+AO.	Petr and Book | `cpp`
 
-`AP.`	Fox and Number Game
+AP.	Fox and Number Game | `cpp`
 
-AQ.	Young Physicist
+AQ.	Young Physicist | `cpp`
 
-AR.	Total Expenses
+AR.	Total Expenses | `cpp`
 
-AS.	Egypt
+AS.	Egypt | `cpp`
 
-AT.	Toy Army
+AT.	Toy Army | `cpp`
 
-AU.	Fraction | `cpp`
+AU.	Fraction | `cpp` 
 
-`AV.`	Probability
+AV.	Probability | `cpp`
 
-`AW.`	Random Teams
+~~AW.	Random Teams | `DID NOT SOLVE`~~
 
-`AX.`	Teams
+~~AX.	Teams | `DID NOT SOLVE`~~
 
-`AY.`	Points in Figures: Rectangles
+AY.	Points in Figures: Rectangles | `cpp`
 
 AZ.	Colourful Flowers | `cpp`
