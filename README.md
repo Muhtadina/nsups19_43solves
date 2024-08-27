@@ -30,7 +30,7 @@ M.	Hajj-e-Akbar | `cpp`
 
 N.	Exams | `cpp`
 
-O.	Soft Drinking |
+O.	Soft Drinking | `java`
 
 P.	Relational Operator | `cpp`
 
