@@ -1,32 +1,35 @@
-//NSUPS19 Solution AG: Staircase
+//NSUPS19 Solution AG: Self Number
 
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 int Sum(int n)
 {
     int s = 0;
-    while (n!=0)
+    while(n!=0)
     {
-        s = s + n % 10;
-        n = n / 10;
+        s = s + n%10;
+        n = n/10;
     }
     return s;
 }
-bool CheckSelf(int n)
-{
-    for(int i=1; i<=n; i++)
-    {
-        if(i+Sum(i) == n)
-            return false;
-    }
-    return true;
-}
 int main()
 {
-    for(int j=1; j<=1000000; j++)
+    const int MAX = 1000000;
+    vector<bool> SelfNumber(MAX+1, false);
+    for (int i=1; i<=MAX; i++)
     {
-        if(CheckSelf(j))
+        int n = i + Sum(i);
+        if (n<=MAX)
+        {
+            SelfNumber[n] = true;
+        }
+    }
+    for (int j=1; j<=MAX; j++)
+    {
+        if (!SelfNumber[j])
+        {
             cout << j << endl;
+        }
     }
     return 0;
 }
